@@ -1,4 +1,14 @@
 # AI_based-Recommendation-System
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: ATYAM SRI VIJAYA TEJA
+
+*INTERN ID*: CTO8SEF
+
+*DOMAIN*: JAVA PROGRAMMING
+
+*MENTOR*: NEELA SANTHOSH
+
 This project implements a recommendation system in Java using Apache Mahout to suggest products or content based on user preferences. It leverages machine learning algorithms to analyze user interactions and generate personalized recommendations.
 
 ### Features
