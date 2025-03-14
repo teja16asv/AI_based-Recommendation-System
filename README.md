@@ -41,3 +41,7 @@ This project implements a recommendation system in Java using Apache Mahout to s
 4. Outputs personalized product/content suggestions.
    
 This project serves as a practical implementation of AI-driven recommendations in Java, making it ideal for understanding machine learning-based recommendation engines and real-world application development.
+
+### ScreenShot
+![Project4](https://github.com/user-attachments/assets/a9355ce1-c6ef-4b88-bda2-abc205d6eff7)
+
